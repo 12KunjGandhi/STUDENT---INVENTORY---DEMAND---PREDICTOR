@@ -1,2 +1,2 @@
-This is my first feature branch.
+This is developer 1 working on inventory.
 Learning Git branching.

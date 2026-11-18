@@ -42,3 +42,5 @@ Currently in development.
 
 ## Developed By
 Student Project Team
+
+Learning git fetch and Pull.
